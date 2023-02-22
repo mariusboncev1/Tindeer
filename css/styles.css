@@ -18,6 +18,15 @@ h1 {
     line-height: 1.5;
 }
 
+h3 {
+    font-family: "Montserrat-Bold" sans-serif;
+    font-weight: 700;
+}
+
+p {
+    color: #8f8f8f;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -47,4 +56,15 @@ h1 {
     margin-left: 100px;
     width: 60%;
     transform: rotate(20deg);
+}
+
+/* Features */
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center ;
+    padding: 5%;
 }
