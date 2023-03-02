@@ -68,3 +68,11 @@ p {
     text-align: center ;
     padding: 5%;
 }
+
+.icon {
+    color: #E96479;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
