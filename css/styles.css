@@ -66,7 +66,7 @@ p {
 
 .feature-box {
     text-align: center ;
-    padding: 5%;
+    padding: 3%;
 }
 
 .icon {
@@ -76,3 +76,41 @@ p {
 .icon:hover {
     color: #ff4c68;
 }
+
+/* Testimonials: */
+
+#testimonials {
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.testimonial-h2 {
+    font-weight: 700;
+}
+
+.testimonial-image {
+    width: 9%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Press: */
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
