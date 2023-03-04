@@ -114,3 +114,43 @@ p {
 
 /* Pricing */
 
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.h2-plan {
+    text-align: left;
+    font-weight: 900;
+    font-size: 45px;
+}
+
+.p-plan {
+    text-align: left;
+    font-weight: 500;
+}
+
+.pricing-row {
+    padding-top: 30px;
+}
+
+.card-h2 {
+    font-weight: 1000;
+}
+
+.card-p {
+    font-weight: 500;
+}
+
+.card-h3 {
+    font-weight: 700;
+    color: #fff;
+}
+
+.card-header {
+    background-color: #ff4c68;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
