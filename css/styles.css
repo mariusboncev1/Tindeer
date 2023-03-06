@@ -5,6 +5,8 @@ body {
 #title {
     background-color: #ff4c68;
     color: #fff;
+    position: relative;
+    z-index: 0;
 }
 
 .container-fluid {
@@ -56,12 +58,23 @@ p {
     margin-left: 100px;
     width: 60%;
     transform: rotate(20deg);
+    position: absolute;
 }
 
 /* Features */
 
 #features {
+    position: relative;
     padding: 7% 10%;
+    background-color: #fff;
+    position: absolute;
+    z-index: 1;
+}
+
+.z-index {
+    height: 20px;
+    width: auto;
+    background-color: #fff;
 }
 
 .feature-box {
