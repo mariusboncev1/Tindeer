@@ -39,7 +39,6 @@ p {
     font-family: "Ubuntu";
     font-size: 2.5rem;
     font-weight: 500;
-    
 }
 
 .nav-item {
@@ -166,3 +165,67 @@ p {
 .pricing-column {
     padding: 3% 2%;
 }
+
+/* Call to action */
+
+#cta {
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7%;
+}
+
+.cta-h3 {
+    width: 65%;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.cta-buttons {
+    margin-top: 70px;
+}
+
+.apple-cta-button {
+    margin-right: 20px;
+}
+
+.apple {
+    color: #fff;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+}
+
+.footer-icons {
+    padding-top: 70px;
+}
+
+.four-icons {
+    color: black;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.p-footer {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .iphone6 {
+        margin-right: 100px;
+        position: relative;
+        transform: rotate(0);
+        width: 300px;
+        height: auto;
+    }
+}
+
