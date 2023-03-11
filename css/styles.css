@@ -176,6 +176,7 @@ p {
 }
 
 .cta-h3 {
+    margin: auto;
     width: 65%;
     font-size: 45px;
     font-weight: 800;
